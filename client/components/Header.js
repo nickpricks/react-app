@@ -12,7 +12,6 @@ class Header extends React.Component{
                 <ul role="nav">
                     <li><NavLink to="/" onlyActiveOnIndex>Home</NavLink></li>
                     <li><NavLink to="/about">About</NavLink></li>
-                    <li><NavLink to="/repos">Repos</NavLink></li>
                 </ul>
             </div>
         )

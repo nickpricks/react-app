@@ -3,7 +3,12 @@ import ReactDOM from 'react-dom';
 
 class Footer extends React.Component{
     render(){
-        return <h3>Footer</h3>
+        return (
+            <footer class="container">
+
+                <p class="">  Copyright © 2016 React App | All rights reserved.</p>
+            </footer>
+        )
     }
 }
 

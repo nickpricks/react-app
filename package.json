@@ -1,13 +1,13 @@
 {
-  "name": "react-webpack",
+  "name": "react-app-intoduction-by-rajeev37",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test app using React and Webpack.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --content-base client --inline --hot"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Rajeev Thakur",
+  "license": "MIT",
   "dependencies": {
     "babel-plugin-syntax-class-properties": "^6.5.0",
     "history": "^2.0.1",
@@ -27,5 +27,22 @@
     "babel-preset-react": "^6.5.0",
     "webpack": "^1.12.14",
     "webpack-dev-server": "^1.14.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickpricks/react-app.git"
+  },
+  "keywords": [
+    "react",
+    "intro",
+    "introduction",
+    "rajeev",
+    "nick",
+    "nickpricks",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/nickpricks/react-app/issues"
+  },
+  "homepage": "https://github.com/nickpricks/react-app#readme"
 }

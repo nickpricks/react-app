@@ -1,1 +1,19 @@
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+
+# Directories
+.idea
+.idea/
+
+.git
+.git/
+
+build
+build/
+
 node_modules
+node_modules/
+
+# Misc files
+ncp-debug.log
+npm-debug.log
